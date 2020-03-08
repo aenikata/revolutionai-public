@@ -1,14 +1,14 @@
-Images can be embedded from the local filesystem!
 
-![xkcd on standards](./standards.png)
+# Concept
+Individually branded products to use data more effectively:
 
-(attribution: xkcd.com)
+## Mole Money ![mole money logo](./molemoney.png)
+Tools to work out the right mortgage or pension annuity for you  
+
+## PrivEye 
+Automatically hide sensitive information when unauthorised persons are present
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+![revolution ai logo](./revolutionai.png)
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
-
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck

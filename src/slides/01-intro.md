@@ -1,25 +1,21 @@
-# Gatsby Deck
-
-Create presentations using Gatsby & React.
+## Introducing Revolution AI
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+> The Fourth Industrial Revolution represents a fundamental change in the way we live, work and relate to one another. It
+> is a new chapter in human development, enabled by extraordinary technology advances commensurate with those of the first
+> second and third industrial revolutions.
+> <cite>Wikipedia</cite>
 
 ---
 
-# 🤫
+## Machine Learning fundamentally changes how tasks are performed: 
 
----
+- Automated translation makes low-cost, instant translations available to all 
 
-## Slides are written in Markdown!
+- Vehicles use data to automatically follow lanes and brake to avoid crashes 
 
-Here's the source of the first slide:
+- Algorithms optimise advertising in real time to optimise sales
 
-    # Gatsby Deck
+- Stock analysis ensures sufficient stock without excess inventory risks
 
-    Create presentations using Gatsby & React.
