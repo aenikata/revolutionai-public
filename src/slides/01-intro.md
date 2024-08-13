@@ -19,3 +19,4 @@
 
 - Stock analysis ensures sufficient stock without excess inventory risks
 
+- Health outcomes can be improved by detecting problems and mistakes earlier

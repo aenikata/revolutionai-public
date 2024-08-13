@@ -1,12 +1,10 @@
 
 # Concept
-Individually branded products to use data more effectively:
+- Improving Package of Care auditing by managing processes and providing automated analysis tools
+- Improving Mental Health outcomes by tailoring analysis of notes to patients to aid Crisis Prevention
 
-## Mole Money ![mole money logo](./molemoney.png)
-Tools to work out the right mortgage or pension annuity for you  
+Better data means better outcomes. Better outcomes mean lives saved, and happier patients.
 
-## PrivEye 
-Automatically hide sensitive information when unauthorised persons are present
 
 ---
 
